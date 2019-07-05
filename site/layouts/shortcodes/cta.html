@@ -1,5 +1,7 @@
 <div class="cta">
-  <div class="cta__title">{{.Get 3}}</div>
+  {{ if (.Get 3) }}
+    <div class="cta__title">{{.Get 3}}</div>
+  {{ end }}
   <div class="cta__content">
     <div class="cta__left">
       {{.Inner}}
