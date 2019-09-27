@@ -1,5 +1,5 @@
 # cove
-Skribble **co**rporate **ve**bsite
+Skribble **co**rporate **we**bsite
 
 ## Status
 Deploy:
