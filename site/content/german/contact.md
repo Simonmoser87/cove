@@ -7,7 +7,7 @@ type: contact
 
 # map component
 map:
-  title: Skribble Office
+  title: Schkribble Office
   subtitle: Gleich an der Bahnhofstrasse, im Herzen von Zürich
   columns:
     - title: Firma
