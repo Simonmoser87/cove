@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{% content %}}
 {{% heading %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
-Once upon a time there was the hand-written signature – <br class="hide-for-mobile">today we sign with Skribble.
+In the middle ages people signed in blood  – <br class="hide-for-mobile">today we sign with Skribble.
 {{% /heading %}}
 
 {{% richtext %}}
