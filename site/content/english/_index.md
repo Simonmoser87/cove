@@ -100,7 +100,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 With Skribble you sign legally and securely according to the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "E-signature standards QES and FES according to ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
 
@@ -201,11 +201,11 @@ Skribbles' pricing adapts to your needs and can be flexibly configured.
 
 {{< row >}}
 {{% plan gold "Prepaid" "Pay per signature" %}}
-Suitable for single or occasional signing with QES
+Suitable for single or occasional signing
 {{% /plan %}}
 
 {{% plan purple "Flat rate" "Pay per user" %}}
-Suitable for regular signing with QES
+Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}

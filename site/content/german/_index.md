@@ -144,8 +144,10 @@ Identifizierte Personen signieren auf Skribble mit dem höchsten verfügbaren <b
 
 **Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei.**
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
+**Die Integration weiterer E-IDs folgt in diesem Jahr.**
 {{% /heading %}}
 {{% /content %}}
+
 {{% cta
   label="Mehr erfahren"
   href="de/identifikation"
@@ -192,10 +194,10 @@ Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an <br class="hide-fo
 
 {{< row >}}
 {{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
-Geeignet für einmaliges oder gelegentliches Signieren mit QES.
+Geeignet für einmaliges oder gelegentliches Signieren.
 {{% /plan %}}
 {{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
-Geeignet für regelmässiges Signieren mit QES.
+Geeignet für regelmässiges Signieren.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
