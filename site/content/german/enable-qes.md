@@ -140,7 +140,7 @@ CH-8001 Zürich
 # Alles klar?
 {{% /heading %}}
 
-{{% collapsible 1 "Was bringt mir die Identifikation?" %}}
+{{% collapsible 1 "Wieso muss ich identifiziert werden?" %}}
 Auf Skribble hast du die Möglichkeit, mit dem höchsten verfügbaren E-Signatur-Standard zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
 {{% /collapsible %}}
 
