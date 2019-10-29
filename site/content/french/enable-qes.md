@@ -138,7 +138,7 @@ CH-8001 Zürich
 # Tout va bien?
 {{% /heading %}}
 
-{{% collapsible 1 "Que m'apporte l'identification?" %}}
+{{% collapsible 1 "Pourquoi dois-je être identifié?" %}}
 Sur Skribble, vous avez la possibilité de signer avec la plus haute norme de signature électronique disponible: la signature électronique qualifiée (SEQ). Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité. 
 {{% /collapsible %}}
 
