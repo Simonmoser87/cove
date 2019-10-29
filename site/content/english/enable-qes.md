@@ -140,7 +140,7 @@ CH-8001 Zurich
 {{% /heading %}}
 
 {{% collapsible 1 "Why do I have to be identified?" %}}
-On Skribble you have the possibility to sign with the highest e-signature standard available: The qualified electronic signature (QES). The QES has 100% legal weight and can be used for contracts that require written form. For QES, the law requires an identity check.{{% /collapsible %}}
+With Skribble you have the possibility to sign with the highest e-signature standard available: The qualified electronic signature (QES). The QES has maximum legal weight and can be used for contracts that require written form. For QES, the law requires an identity check.{{% /collapsible %}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
 No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
