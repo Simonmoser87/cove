@@ -158,6 +158,10 @@ Les données collectées sont stockées sur les serveurs haute sécurité <br cl
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
 
+{{% collapsible 6 "Et si je n'ai pas encore été identifié personnellement?" %}}
+L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA).
+{{% /collapsible %}}
+
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
